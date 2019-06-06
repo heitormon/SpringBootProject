@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: rest-spring-estudo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Nobuo
+Implementation-Vendor-Id: br.com.heitor
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/rest-spring-estudo
+Created-By: Maven Integration for Eclipse
+
